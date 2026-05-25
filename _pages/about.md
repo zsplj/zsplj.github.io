@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +10,6 @@ redirect_from:
 
 I'm a fourth year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn). My research interest includes natural languages processing, large language models and retreival-augmented generation.
 
-[Email](maito:zhangshipang@stu.pku.edu.cn)
+[Email](mailto:zhangshipang@stu.pku.edu.cn)
 
-[Github](https:/github.com/zsplj)/
+[Github](https:/github.com/zsplj)
